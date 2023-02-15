@@ -17,7 +17,7 @@
     </fragment>
     <fragment
         android:id="@+id/SecondFragment"
-        android:name="com.sayers.dndcombatmanager.SecondFragment"
+        android:name="com.sayers.dndcombatmanager.DiceFragment"
         android:label="@string/second_fragment_label"
         tools:layout="@layout/fragment_second">
 
